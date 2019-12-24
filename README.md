@@ -15,4 +15,4 @@ To start, run the script with python3 scraper.py located inside aids_scraper/aid
 
 ## Notes
 
-The script will open and close several Chrome windows during its run. Don't close these windows otherwise the script will not work. Overall runtime should not be too long (Should only be a few hours maximum depending on how fast the system is able to open chrome browsers and send POST requests).
+The script will open and close several Chrome windows during its run. Don't close these windows otherwise the script will not work. Overall runtime should not be too long (Should be under an hour).
